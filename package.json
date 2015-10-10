@@ -1,0 +1,25 @@
+{
+  "name": "@bdylanwalker/angular-slip",
+  "version": "1.0.0",
+  "description": "A simple [AngularJS](https://angularjs.org/) wrapper for the [slipjs](https://github.com/pornel/slip) library.",
+  "main": "angular-slip.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdylanwalker/angular-slip.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdylanwalker/angular-slip/issues"
+  },
+  "homepage": "https://github.com/bdylanwalker/angular-slip#readme",
+  "dependencies": {
+    "slipjs": "^1.2.0"
+  }
+}
