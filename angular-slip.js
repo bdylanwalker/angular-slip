@@ -1,6 +1,8 @@
 
 (function () {
 
+	require('slipjs');
+
 	//
 	// Defines the slip events that can be handled.
 	//
